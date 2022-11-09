@@ -4,7 +4,7 @@
     background-color: black; 
     color:white;
     border-radius: 5px;
-    border-style: none;
+    border-style: 0px none rgb(118, 118, 118);
     
 }
 #btn:hover{
